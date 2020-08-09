@@ -1,9 +1,9 @@
 ## CS 499 Final Project
 
-[Software Engineering/Design](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
-[Data Structures and Algorithms](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
-[Databases](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
-[Professional Self-Assesment](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
+- [Software Engineering/Design](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
+- [Data Structures and Algorithms](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
+- [Databases](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
+- [Professional Self-Assesment](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
 
 ### Support or Contact
 
