@@ -1,3 +1,5 @@
+### Enhancement Two: Data Structures & Algorithms
+
 This artifact is a collection of 5 sorting algorithms - Bubble, Insertion, Merge, Quick, and Selection.
 
 In Computer Science, a sorting algorithm is an algorithm that places elements from a list in a certain order.
