@@ -1,4 +1,4 @@
-## Enhancement One
+## Enhancement One: Software Engineering/Design
 
 The first piece of this project was a way to collect real time data from a DHT11 sensor attached to a Raspberry Pi ARM-architecture running a Debian based Linux operating systems called RaspbianOS.
 
@@ -14,7 +14,7 @@ The enhancements for this part of the project needed to include a way to automat
 
 First, I encapsulated what was the while True try/except loop into it’s own function called getDHTdata().
 This function is responsible for the initial instantiation of the DHT11 class and collection of the actual humidity and temperature values which are stored in ‘hum’ and ‘temp’ variables respectively.
-```markdown
+```python
 # Function: Get data from DHT11 Sensor
 def getDHTdata():	
 	
@@ -31,7 +31,8 @@ def getDHTdata():
 
 The next function is the logData() function, which accepts 2 parameters as inputs (temp, hum).
 This function is responsible for creating the initial database connection, the cursor that is required to execute work on that database, as well as the actual SQL statements that will be inserting the data into the table being used for this database.
-```markdown
+```python
+# Function: Log the data collected to db
 def logData (temp, hum):
 	
 	conn=sqlite3.connect(dbname)    # Create DB connection
@@ -47,7 +48,7 @@ def logData (temp, hum):
 
 The main function employs the whileTrue loop, and goes on to call the getDHTdata() function – which populates the ‘temp’ and ‘hum’ variables.
 These variables are then passed to logData() as parameters, where they are insert into the database table along with a timestamp for the current date and time.
-```markdown
+```python
 # Function: Main
 def main():
     # Keep collecting data and sending it to the database as long as we run
