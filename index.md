@@ -1,9 +1,10 @@
 ## CS 499 Final Project
 
+- [Intro & Code Review](intro.md)
 - [Software Engineering/Design](enh_one.md)
-- [Data Structures and Algorithms](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
-- [Databases](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
-- [Professional Self-Assesment](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
+- [Data Structures and Algorithms](enh_two.md)
+- [Databases](enh_three.md)
+- [Professional Self-Assesment](self_assess.md)
 
 ### Support or Contact
 
