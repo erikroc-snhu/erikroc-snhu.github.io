@@ -1,6 +1,6 @@
 ## CS 499 Final Project
 
-- [Software Engineering/Design](https://github.com/erikroc-snhu/erikroc-snhu.github.io/blob/master/enh_one.md)
+- [Software Engineering/Design](enh_one.md)
 - [Data Structures and Algorithms](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
 - [Databases](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
 - [Professional Self-Assesment](https://github.com/erikroc-snhu/erikroc-snhu.github.io/)
