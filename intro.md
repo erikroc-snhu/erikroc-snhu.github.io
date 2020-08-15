@@ -1,3 +1,5 @@
+### Intro & Code Review
+
 I took an open-source personal project and combined it with knowledge learned over the course of my time here at SNHU to demonstrate skills I've learned
 that span Software Engineering and Design, Algorithms, and Database systems. The personal project I've built some time ago utilizes a Raspberry Pi and DHT11 sensor.
 The DHT11 is a basic, low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and outputs a digital signal on the data pin.
@@ -17,5 +19,19 @@ I will also build a local web-server with Python and Flask on the Pi that will i
 Skills and outcomes I plan to illustrate in the code review include existing functionality where I will discuss what the code is, identify what it does, and how it works. I will review the code structure, while being aware of efficiencies, and making certain to comment and document my process, while finding areas I can improve.
 Skills and outcomes I plan to illustrate in the narratives include gaining better understanding in the overall software development life cycle through requirements analysis and overall project goals. I also plan to illustrate how security fits into the overall narrative of the project by addressing potential design flaws in software architecture and defining an approach that ensures all data is explicitly validated.
 Skills and outcomes I plan to illustrate in the professional self-assessment include demonstrating the ability to use the software development life cycle to create realistic production schedules for software projects.
+
+# Code Review
+Code review is a systematic process of examining source code and project structure intended to find bugs and to estimate the code quality.
+The reviewer should be looking to identify more efficient ways for completing tasks, finding logical errors, identifying the most common vulnerabilities, and even specifically be looking for any suspicious code that may be vulnerable to malware or backdoors that may be integrated into the software.
+This is also an opportunity to look at formatting, things like spacing and line breaks; style, things like variable and method declarations and definitions; naming, do the variable/class names conform to standards; and testing.
+
+Code review should be performed often, in regular intervals, and especially before the development of a new codebase or project.
+Checking the code before starting a project gives you a change to get familiar with it and determine whether the code is clean or requires any rework.
+
+- Reviewing a large code base can be daunting so organization is key. A good practice is to divide the review into time slots, do not try to review the whole project at once. Humans cannot effectively process large amounts of information over an extended period of time, trying to push to get large chunks of code done over long hours may result in missing critical bugs or crucial errors.
+
+- Another good practice is asking for help. The more sets of eyes looking at the same code can work to your advantage and increase the quality of the review. Sometimes others will spot things that you will overlook, and with code-review tools - it's easy to assign reviewers to code from different parts of the team, discuss particular lines of code and also track and report the parts of code that have been reviewed or still need reviewing.
+
+- The last best practice I would like to advocate is staying positive. Code review can be stressful for both the reviewer and the developer who is having their code reviewed. People don't like being criticized, so it's very important to keep the review positive, as to not risk killing the team’s motivation. Finding and fixing bugs can be thought of as a new opportunity for improving the code quality in general.
 
 ![Image](overview.png)
