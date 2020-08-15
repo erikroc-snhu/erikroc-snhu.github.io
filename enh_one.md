@@ -59,6 +59,5 @@ def main():
 
 The enhancements have been successful and I am able to let this script run as a background task to automatically collect data and insert it into a SQLite database table for later processing.
 
-Link to Enhancement One repo files:
-[Link](url) and ![Image](src)
-```
+[Enhancement One Files](https://github.com/erikroc-snhu/erikroc-snhu.github.io/tree/master/Enhancement%20One)
+
