@@ -37,3 +37,5 @@ Checking the code before starting a project gives you a change to get familiar w
 - The last best practice I would like to advocate is staying positive. Code review can be stressful for both the reviewer and the developer who is having their code reviewed. People don't like being criticized, so it's very important to keep the review positive, as to not risk killing the team’s motivation. Finding and fixing bugs can be thought of as a new opportunity for improving the code quality in general.
 
 ![Image](overview.png)
+
+{% include vimeoPlayer.html id="448338850" %}
