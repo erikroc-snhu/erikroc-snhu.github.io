@@ -1,10 +1,9 @@
 ## CS 499 Final Project
 
-- [Intro & Code Review](intro.md)
+- [Self-Assesment & Code Review](intro.md)
 - [Software Engineering/Design](enh_one.md)
 - [Data Structures and Algorithms](enh_two.md)
 - [Databases](enh_three.md)
-- [Self-Assesment](self_assess.md)
 
 
 
