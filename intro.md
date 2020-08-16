@@ -1,4 +1,6 @@
-### Intro & Code Review
+## Self-Assessment
+
+Working on projects in the real world will very rarely be a solo endeavor. Projects typically have stakeholders, managers, developers, and everyone in between. It takes a great deal of organization and careful planning to successfully build and deliver a project on any scale. CS-310 Collaboration and Team Project helped teach me the skills of what it means to work as part of a team, and the critical importance placed on communication - both within the team and externally to stakeholders. Communication is such a key component when taking on new projects or working through existing ones. There can be a disconnect in expectation between stakeholders and those internal so it's often crucial to get on the same page as early as possible to ensure the requirements for the deliverable are met.
 
 I took an open-source personal project and combined it with knowledge learned over the course of my time here at SNHU to demonstrate skills I've learned
 that span Software Engineering and Design, Algorithms, and Database systems. The personal project I've built some time ago utilizes a Raspberry Pi and DHT11 sensor.
