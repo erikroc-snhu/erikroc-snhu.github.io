@@ -43,4 +43,6 @@ for row in curs.execute("SELECT * FROM DHT_data ORDER BY timestamp DESC LIMIT 1"
 One of the crucial factors I have to take into consideration from a security perspective are SQL injection attacks, as this database will ultimately be the backend to a frontend GUI that will accept user input. A major consideration I need to evaluate is where and how I will scrub user input to prevent any potential bad actors from successfully attacking my database.
 On the one hand, it could be argued that as a standalone sensor merely reading temperature and humidity data – the data and device itself isn’t worth putting the effort into protecting, as the information isn’t considered “valuable.” However, I feel that even with something as basic as this, it is simply good practice to be aware of and implement techniques to mitigate any potential threats and vulnerabilities, especially when something like scrubbing user input can be as simple as a few additional lines of code.
 
-[Enhancement Three Files](https://github.com/erikroc-snhu/erikroc-snhu.github.io/tree/master/Enhancement%20Three)
+[Enhancement Three Files](/Enhancement%20Three)
+
+[Back To Main](index.md)
