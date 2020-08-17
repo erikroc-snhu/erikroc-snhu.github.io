@@ -17,4 +17,6 @@ Sorting through an array of 25 random integers to demonstrate the number of oper
 ![Image](selection.png)
 
 
-[Enhancement Two Files](https://github.com/erikroc-snhu/erikroc-snhu.github.io/tree/master/Enhancement%20Two)
+[Enhancement Two Files](/Enhancement%20Two)
+
+[Back To Main](index.md)
