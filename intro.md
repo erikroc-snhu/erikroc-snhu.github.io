@@ -19,8 +19,12 @@ I will utilize a SQLite Database on the Raspberry Pi that will be the storage an
 I will also build a local web-server with Python and Flask on the Pi that will interact with this database providing a front-end GUI for users to more easily view and interact with the collected data.
 
 Skills and outcomes I plan to illustrate in the code review include existing functionality where I will discuss what the code is, identify what it does, and how it works. I will review the code structure, while being aware of efficiencies, and making certain to comment and document my process, while finding areas I can improve.
-Skills and outcomes I plan to illustrate in the narratives include gaining better understanding in the overall software development life cycle through requirements analysis and overall project goals. I also plan to illustrate how security fits into the overall narrative of the project by addressing potential design flaws in software architecture and defining an approach that ensures all data is explicitly validated.
+Skills and outcomes I plan to illustrate in the narratives include gaining better understanding in the overall software development life cycle through requirements analysis and overall project goals.
+
+I will also illustrate how security fits into the overall narrative of the project by addressing potential design flaws in software architecture and defining an approach that ensures all data is explicitly validated.
 Skills and outcomes I plan to illustrate in the professional self-assessment include demonstrating the ability to use the software development life cycle to create realistic production schedules for software projects.
+
+![Image](overview.png)
 
 # Code Review
 Code review is a systematic process of examining source code and project structure intended to find bugs and to estimate the code quality.
@@ -35,7 +39,5 @@ Checking the code before starting a project gives you a change to get familiar w
 - Another good practice is asking for help. The more sets of eyes looking at the same code can work to your advantage and increase the quality of the review. Sometimes others will spot things that you will overlook, and with code-review tools - it's easy to assign reviewers to code from different parts of the team, discuss particular lines of code and also track and report the parts of code that have been reviewed or still need reviewing.
 
 - The last best practice I would like to advocate is staying positive. Code review can be stressful for both the reviewer and the developer who is having their code reviewed. People don't like being criticized, so it's very important to keep the review positive, as to not risk killing the team’s motivation. Finding and fixing bugs can be thought of as a new opportunity for improving the code quality in general.
-
-![Image](overview.png)
 
 {% include vimeoPlayer.html id="448338850" %}
